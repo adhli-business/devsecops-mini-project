@@ -1,7 +1,7 @@
 {
-  "name": "demo-sec-ci",
+  "name": "devsecops-mini-project",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
