@@ -1,3 +1,4 @@
+const API_KEY = "my-hardcoded-secret-key"
 // Fungsi penjumlahan
 function tambah(a, b) {
 return a + b;
